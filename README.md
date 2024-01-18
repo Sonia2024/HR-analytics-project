@@ -1,1 +1,1 @@
-Hr Analytics Project
+In this project, I used Power BI to discover important trends in HR. I looked at why people leave their jobs, which jobs are affected the most, and how long they stay in a job. These findings help improve HR decisions and create strategies to keep employees happy.
